@@ -1,4 +1,4 @@
-used (SDL glad glm) to render heightmap tesselation demo.
+used (SDL glad glm) to render heightmap tessellation demo.
 To know :
 1) Press R ,,, F to switch between Wireframe views 
    Press W A S D to see what's going on
