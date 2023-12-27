@@ -1,0 +1,8 @@
+used (SDL glad glm) to render heightmap tesselation demo.
+To know :
+1) Press R ,,, F to switch between Wireframe views 
+   Press W A S D to see what's going on
+2) Compile with---> x86 
+
+3) goodLuck 
+                      klpa.cpp is main.cpp :)

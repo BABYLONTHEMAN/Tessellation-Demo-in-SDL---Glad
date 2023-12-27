@@ -1,0 +1,14 @@
+﻿  gl.c
+  klpa.cpp
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(583,32): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(718,27): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(719,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(730,50): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(738,30): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(739,30): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(746,26): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\gladSdl\klpa.cpp(747,26): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+  Transform.cpp
+  Generating Code...
+  LINK : C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\Debug\gladSdl.exe not found or not built by the last incremental link; performing full link
+  gladSdl.vcxproj -> C:\Users\babyl\Desktop\Delete\Heightmap-Tesselation-SDL-GLAD--main\Debug\gladSdl.exe
